@@ -1,0 +1,5 @@
+newString=input("enter string to be reversed \n")
+
+reverseString=newString[::-1]
+
+print(reverseString)
